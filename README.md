@@ -21,3 +21,6 @@ learn shodan
 https://www.zoomeye.org/
 
 https://spyse.com/
+
+Spider-Foot tool 
+

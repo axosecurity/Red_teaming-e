@@ -12,3 +12,5 @@ https://attack.mitre.org/
 # REConnaissance 
 https://phonebook.cz/
 
+https://viewdns.info/
+

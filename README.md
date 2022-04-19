@@ -14,3 +14,6 @@ https://phonebook.cz/
 
 https://viewdns.info/
 
+https://www.shodan.io/dashboard 
+
+learn shodan

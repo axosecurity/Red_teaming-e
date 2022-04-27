@@ -24,3 +24,11 @@ https://spyse.com/
 
 Spider-Foot tool 
 
+-----------------------------------------------------------------------------------
+
+learn http smuggling
+
+learn PrivExchange
+
+learn Rubeus
+
